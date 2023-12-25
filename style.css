@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+div {
+    width:50%;
+    margin-left: 25%;
+    color: white;
+}
+img {
+    height: 50%;
+    width: 100%;
+    border:5px solid fuchsia;
+}
+h1 {
+    text-transform:uppercase;
+}
